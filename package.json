@@ -1,0 +1,14 @@
+{
+  "name": "remail",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^8.0.1"
+  }
+}
